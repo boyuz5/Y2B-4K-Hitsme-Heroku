@@ -1,12 +1,12 @@
 <?php
-define('APIKEY', 'AIzaSyB5zY2fq6YRSMxF7HwGb8rEQ8VVRxiO6ps');
-define('GJ_CODE', 'HK');
-define('SITE_NAME', 'you2b1eclub');
-define('TITLENAME', 'you2beclub');
-define('EN2DEKEY', '32123wwerwertgfdgds');
-define('EMAIL', '1334347212@qq.com');
+define('APIKEY', 'AIzaSyA2tiPk017-VndAw1CZPeT-syf_dQyLJVU');
+define('GJ_CODE', 'US');
+define('SITE_NAME', 'YTB20');
+define('TITLENAME', 'YTB By BZ');
+define('EN2DEKEY', 'SJHR3ui78cILUEYR');
+define('EMAIL', 'jackbvs@gmail.com');
 define('NAME', 'admin');
-define('PASSWORD', 'admin');
+define('PASSWORD', 'CR400af&bf');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
